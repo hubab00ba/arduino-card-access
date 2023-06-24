@@ -7,4 +7,5 @@ Simple card reader for access control.
 * SD Card module
 * RFID MFRC522
 
+### Schema:
 ![alt tag](https://github.com/hubab00ba/arduino-card-access/blob/master/schema.png)
